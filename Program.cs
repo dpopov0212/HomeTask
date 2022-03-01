@@ -13,7 +13,6 @@ namespace HomeTaskLesson_1
             Console.WriteLine("Введите свое имя");
             string name = Console.ReadLine();
 
-            //Console.WriteLine("[" + DateTime.Now + "] " + "Hello, " + name + "!");
             Console.WriteLine($"Привет, {name}, сегодня [{DateTime.Now}].");
             Console.ReadKey();
 
