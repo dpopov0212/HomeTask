@@ -58,7 +58,7 @@ namespace HomeTaskLesson2
             }
 
             Console.WriteLine(monthTitle);
-
+            Console.ReadKey();
         }
     }
 }
