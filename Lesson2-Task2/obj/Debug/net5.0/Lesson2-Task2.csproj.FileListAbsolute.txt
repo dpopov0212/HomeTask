@@ -1,0 +1,16 @@
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.exe
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.deps.json
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.runtimeconfig.json
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.runtimeconfig.dev.json
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.dll
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\ref\Lesson2-Task2.dll
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\bin\Debug\net5.0\Lesson2-Task2.pdb
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.AssemblyInfo.cs
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.dll
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\ref\Lesson2-Task2.dll
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.pdb
+C:\Users\intel\source\repos\TASK\Lesson2-Task2\obj\Debug\net5.0\Lesson2-Task2.genruntimeconfig.cache
