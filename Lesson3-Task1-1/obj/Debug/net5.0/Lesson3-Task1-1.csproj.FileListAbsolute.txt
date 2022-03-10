@@ -1,0 +1,16 @@
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.exe
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.deps.json
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.runtimeconfig.json
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.runtimeconfig.dev.json
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.dll
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\ref\Lesson3-Task1-1.dll
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\bin\Debug\net5.0\Lesson3-Task1-1.pdb
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.AssemblyInfoInputs.cache
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.AssemblyInfo.cs
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.dll
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\ref\Lesson3-Task1-1.dll
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.pdb
+C:\Users\intel\source\repos\TASK\Lesson3-Task1-1\obj\Debug\net5.0\Lesson3-Task1-1.genruntimeconfig.cache
