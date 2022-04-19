@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\TASK\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\intel\source\repos\TASK\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\intel\source\repos\TASK\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\intel\source\repos\TASK\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\TASK\Lesson4\obj\Debug\Lesson4.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\TASK\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\TASK\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\intel\source\repos\TASK\Lesson4\obj\Debug\Lesson4.pdb
