@@ -15,6 +15,10 @@ namespace Lesson5
             string mystring = Console.ReadLine();
             File.WriteAllText(@"C:\Users\intel\source\repos\TASK\my1file.txt", mystring);
 
+            //создаем файл startup.txt и записываем туда текущее время
+            File.AppendAllText(@"C:\Users\intel\source\repos\TASK\startup.txt", DateTime.Now.ToString("HH:mm:ss"));
+            Console.ReadKey();
+
             Console.ReadKey();
         }
     }
