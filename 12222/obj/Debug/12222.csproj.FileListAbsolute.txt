@@ -1,0 +1,8 @@
+C:\Users\intel\source\repos\TASK\12222\bin\Debug\12222.exe.config
+C:\Users\intel\source\repos\TASK\12222\bin\Debug\12222.exe
+C:\Users\intel\source\repos\TASK\12222\bin\Debug\12222.pdb
+C:\Users\intel\source\repos\TASK\12222\obj\Debug\12222.csproj.AssemblyReference.cache
+C:\Users\intel\source\repos\TASK\12222\obj\Debug\12222.csproj.SuggestedBindingRedirects.cache
+C:\Users\intel\source\repos\TASK\12222\obj\Debug\12222.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\TASK\12222\obj\Debug\12222.exe
+C:\Users\intel\source\repos\TASK\12222\obj\Debug\12222.pdb
