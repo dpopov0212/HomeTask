@@ -10,29 +10,30 @@ namespace Lesson7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите первое число!");
-            int first = Convert.ToInt32(Console.ReadLine());
+            string login = "master";
+            string password = "121212";
 
-            Console.WriteLine("Введите второе число!");
-            int second = Convert.ToInt32(Console.ReadLine());
-
-            if (first > second)
+            int count = 0;
+            do
             {
-                Console.WriteLine($"Число {first} > числа {second}");
-            }
+                Console.WriteLine("\nВведите логин: ");
+                string checkLogin = Console.ReadLine();
 
-            else if (first < second)
-            {
-                Console.WriteLine($"Число {first} < числа {second}");
+                Console.WriteLine("Введите пароль: ");
+                string checkPassword = Console.ReadLine();
 
-            }
+                if (login == checkLogin && password == checkPassword)
+                {
 
-            else
-            {
-                Console.WriteLine($"Число {first} = числу {second}");
-            }
+                    Console.WriteLine("Добро пожаловать");
+                    Console.ReadLine();
+                    break;
+                }
+                Console.WriteLine("Неверно введен логин или пароль");
+                Console.ReadLine();
+                ++count;
+            } while (count < 3);
 
-            Console.ReadKey();
         }
     }
 }
